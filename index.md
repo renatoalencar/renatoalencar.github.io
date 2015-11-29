@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Renato Alencar blog 
+title: renatoalencar.blog
 tagline: 
 ---
 {% include JB/setup %}
