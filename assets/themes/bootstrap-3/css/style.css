@@ -18,9 +18,13 @@ h1, h2, h3, h4 {
   color: #f22430;
 }
 #footer {
-  background-color: #fdcd60;
+  background-color: #fa3414;
+  color: white;
 }
 
+.wrap {
+  background-color: #232323;
+}
 
 
 /* posts index */
